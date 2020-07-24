@@ -1,4 +1,4 @@
-I work on projects for the TI-Nspire CX series in my free time. Fell free to check out my repositories.
+I work on projects for the TI-Nspire CX series in my free time. Feel free to check out my repositories.
 <!--
 **nspiredev500/nspiredev500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
